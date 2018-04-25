@@ -5,4 +5,4 @@
 目前该 [repo](https://github.com/vkdoc/vkdoc.org/) 用于未知文档的各种建议反馈，如果您有任何相关的建议反馈，可以发起 [Issues](https://github.com/vkdoc/vkdoc.org/issues)，谢谢大家。
 
 ## 联系方式
-* [@那伊抹微笑](github.com/wangyangting/) - 企鹅: 1042658081，邮箱: yting_xmei1129@163.com
+* [@那伊抹微笑](https://github.com/wangyangting/) - 企鹅: 1042658081，邮箱: yting_xmei1129@163.com
